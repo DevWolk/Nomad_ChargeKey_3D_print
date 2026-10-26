@@ -1,0 +1,30 @@
+{
+  "revision": "6",
+  "cad_valid": true,
+  "connected_solids": 1,
+  "dimensions_mm": [
+    13.400000200000003,
+    15.800000200000001,
+    11.5
+  ],
+  "volume_mm3": 1794.392525384217,
+  "estimated_mass_PLA_g": 2.225046731476429,
+  "channel_mm": [
+    8.45,
+    2.6
+  ],
+  "pitch_mm": 6.8,
+  "rigid_wall_interference_at_pitch_plus_minus_0_2_mm": false,
+  "finger_deflection_range_mm": [
+    0.26,
+    0.36
+  ],
+  "closed_bottom_thickness_mm": 1.2,
+  "nominal_tip_floor_gap_mm": 3.05,
+  "front_recess_mm": 0.6,
+  "nominal_housing_interference_mm3": 0.0,
+  "dimensions_from_photos_are_estimates": true,
+  "retention": "Two compliant leaves on exterior metal USB shells; no internal pins",
+  "physical_fit_tested": false,
+  "variant": "v6"
+}
